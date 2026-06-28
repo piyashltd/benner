@@ -1,9 +1,9 @@
 {
   "banners": [
     {
-      "imageUrl": "https://i.imgur.com/z1ushoj.jpeg",
+      "imageUrl": "https://i.ytimg.com/vi/b663EwTqpJg/hq720.jpg",
       "redirectUrl": "https://t.me/your_telegram_channel",
-      "durationSeconds": 5
+      "durationSeconds": 15
     },
     {
       "imageUrl": "https://i.ibb.co/example2/banner2.jpg",
