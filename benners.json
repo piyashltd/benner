@@ -1,0 +1,14 @@
+{
+  "banners": [
+    {
+      "imageUrl": "https://i.ibb.co/example1/banner1.jpg",
+      "redirectUrl": "https://t.me/your_telegram_channel",
+      "durationSeconds": 5
+    },
+    {
+      "imageUrl": "https://i.ibb.co/example2/banner2.jpg",
+      "redirectUrl": "https://discord.com",
+      "durationSeconds": 5
+    }
+  ]
+}
